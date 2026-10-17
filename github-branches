@@ -1,0 +1,5 @@
+﻿Command: git branch -vv
+  bug-fix-revert   cf47143 [origin/bug-fix-revert] Prepare bug fix revert pull request
+  bug-fix-typo     adf4237 Fix typo in additional authors comment
+  fix-line-endings adf4237 Fix typo in additional authors comment
+* main             7ca981f [origin/main] Add pull request verification output
