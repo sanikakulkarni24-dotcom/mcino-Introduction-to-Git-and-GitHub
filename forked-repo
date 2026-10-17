@@ -1,3 +1,4 @@
+PS C:\Users\sanik> curl.exe https://api.github.com/repos/sanikakulkarni24-dotcom/mcino-Introduction-to-Git-and-GitHub
 {
   "id": 1422952444,
   "node_id": "R_kgDOVNCH_A",
@@ -334,3 +335,4 @@
   "network_count": 11016,
   "subscribers_count": 0
 }
+PS C:\Users\sanik>
